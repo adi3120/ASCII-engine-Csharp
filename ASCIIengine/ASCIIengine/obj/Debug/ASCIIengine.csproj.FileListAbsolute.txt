@@ -1,0 +1,6 @@
+E:\C#\ASCII engine\ASCIIengine\ASCIIengine\bin\Debug\ASCIIengine.exe.config
+E:\C#\ASCII engine\ASCIIengine\ASCIIengine\bin\Debug\ASCIIengine.exe
+E:\C#\ASCII engine\ASCIIengine\ASCIIengine\bin\Debug\ASCIIengine.pdb
+E:\C#\ASCII engine\ASCIIengine\ASCIIengine\obj\Debug\ASCIIengine.csproj.CoreCompileInputs.cache
+E:\C#\ASCII engine\ASCIIengine\ASCIIengine\obj\Debug\ASCIIengine.exe
+E:\C#\ASCII engine\ASCIIengine\ASCIIengine\obj\Debug\ASCIIengine.pdb
